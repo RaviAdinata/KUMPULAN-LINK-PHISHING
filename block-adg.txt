@@ -167,3 +167,4 @@
 ||abvind.com^$important
 ||indoaktif.com^$important
 ||yutub.rangunan.my.id^$important
+||https://yutub.rangunan.my.id?datainfo=MTQ5NTIzODI4MQ==^$important
