@@ -168,4 +168,5 @@
 ||indoaktif.com^$important
 ||yutub.rangunan.my.id^$important
 ||https://yutub.rangunan.my.id?datainfo=MTQ5NTIzODI4MQ==^$important
-https://www.pragmaticplay.com/en/games/gates-of-olympus/^$important
+||https://www.pragmaticplay.com/en/games/gates-of-olympus/^$important
+||https://www.pragmaticplay.com/^$imporrtant
